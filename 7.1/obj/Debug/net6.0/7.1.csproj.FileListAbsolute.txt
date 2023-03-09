@@ -1,0 +1,15 @@
+C:\старое\уроки GeekBrains\blockchain\1 четверть\3. Знакомство с языками программирования\HW7 C#\7.1\bin\Debug\net6.0\7.1.exe
+C:\старое\уроки GeekBrains\blockchain\1 четверть\3. Знакомство с языками программирования\HW7 C#\7.1\bin\Debug\net6.0\7.1.deps.json
+C:\старое\уроки GeekBrains\blockchain\1 четверть\3. Знакомство с языками программирования\HW7 C#\7.1\bin\Debug\net6.0\7.1.runtimeconfig.json
+C:\старое\уроки GeekBrains\blockchain\1 четверть\3. Знакомство с языками программирования\HW7 C#\7.1\bin\Debug\net6.0\7.1.dll
+C:\старое\уроки GeekBrains\blockchain\1 четверть\3. Знакомство с языками программирования\HW7 C#\7.1\bin\Debug\net6.0\7.1.pdb
+C:\старое\уроки GeekBrains\blockchain\1 четверть\3. Знакомство с языками программирования\HW7 C#\7.1\obj\Debug\net6.0\7.1.csproj.AssemblyReference.cache
+C:\старое\уроки GeekBrains\blockchain\1 четверть\3. Знакомство с языками программирования\HW7 C#\7.1\obj\Debug\net6.0\7.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\старое\уроки GeekBrains\blockchain\1 четверть\3. Знакомство с языками программирования\HW7 C#\7.1\obj\Debug\net6.0\7.1.AssemblyInfoInputs.cache
+C:\старое\уроки GeekBrains\blockchain\1 четверть\3. Знакомство с языками программирования\HW7 C#\7.1\obj\Debug\net6.0\7.1.AssemblyInfo.cs
+C:\старое\уроки GeekBrains\blockchain\1 четверть\3. Знакомство с языками программирования\HW7 C#\7.1\obj\Debug\net6.0\7.1.csproj.CoreCompileInputs.cache
+C:\старое\уроки GeekBrains\blockchain\1 четверть\3. Знакомство с языками программирования\HW7 C#\7.1\obj\Debug\net6.0\7.1.dll
+C:\старое\уроки GeekBrains\blockchain\1 четверть\3. Знакомство с языками программирования\HW7 C#\7.1\obj\Debug\net6.0\refint\7.1.dll
+C:\старое\уроки GeekBrains\blockchain\1 четверть\3. Знакомство с языками программирования\HW7 C#\7.1\obj\Debug\net6.0\7.1.pdb
+C:\старое\уроки GeekBrains\blockchain\1 четверть\3. Знакомство с языками программирования\HW7 C#\7.1\obj\Debug\net6.0\7.1.genruntimeconfig.cache
+C:\старое\уроки GeekBrains\blockchain\1 четверть\3. Знакомство с языками программирования\HW7 C#\7.1\obj\Debug\net6.0\ref\7.1.dll
